@@ -1,0 +1,2 @@
+# rust_learning_by_atcoder
+AtCoderでのRustの練習
